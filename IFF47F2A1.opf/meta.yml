@@ -1,0 +1,327 @@
+id: IFF47F2A1
+source: https://library.bdrc.io
+source_file: null
+initial_creation_type: ocr
+imported: '2020-03-31T06:21:12+00:00'
+last_modified: '2022-06-08T05:18:50.326858+00:00'
+parser: https://github.com/OpenPecha-dev/openpecha-toolkit/blob/231bba39dd1ba393320de82d4d08a604aabe80fc/openpecha/formatters/google_orc.py
+source_metadata:
+  id: bdr:W20820
+  title: ལྷོ་ཁའི་རྩོམ་རིག་སྒྱུ་རྩལ། ༼དུས་དེབ།༽
+  author: ''
+  access: http://purl.bdrc.io/admindata/AccessFairUse
+  restrictedInChina: true
+  base:
+    '8146':
+      image_group_id: I1PD36073
+      title: ''
+      total_pages: 90
+      order: 1
+      base_file: 8146.txt
+    C270:
+      image_group_id: I1PD36074
+      title: ''
+      total_pages: 118
+      order: 2
+      base_file: C270.txt
+    '7581':
+      image_group_id: I1PD36075
+      title: ''
+      total_pages: 150
+      order: 3
+      base_file: 7581.txt
+    '7644':
+      image_group_id: I1PD36076
+      title: ''
+      total_pages: 94
+      order: 4
+      base_file: 7644.txt
+    CD2F:
+      image_group_id: I1PD36077
+      title: ''
+      total_pages: 98
+      order: 5
+      base_file: CD2F.txt
+    '0445':
+      image_group_id: I1PD36078
+      title: ''
+      total_pages: 128
+      order: 6
+      base_file: 0445.txt
+    3A4A:
+      image_group_id: I1PD36079
+      title: ''
+      total_pages: 154
+      order: 7
+      base_file: 3A4A.txt
+    27C4:
+      image_group_id: I1PD36080
+      title: ''
+      total_pages: 134
+      order: 8
+      base_file: 27C4.txt
+    '6229':
+      image_group_id: I1PD36081
+      title: ''
+      total_pages: 86
+      order: 9
+      base_file: 6229.txt
+    4D83:
+      image_group_id: I1PD36082
+      title: ''
+      total_pages: 110
+      order: 10
+      base_file: 4D83.txt
+    437E:
+      image_group_id: I1PD36083
+      title: ''
+      total_pages: 98
+      order: 11
+      base_file: 437E.txt
+    562E:
+      image_group_id: I1PD36084
+      title: ''
+      total_pages: 90
+      order: 12
+      base_file: 562E.txt
+    B113:
+      image_group_id: I1PD36085
+      title: ''
+      total_pages: 84
+      order: 13
+      base_file: B113.txt
+    '0255':
+      image_group_id: I1PD36086
+      title: ''
+      total_pages: 88
+      order: 14
+      base_file: 0255.txt
+    FF64:
+      image_group_id: I1PD36087
+      title: ''
+      total_pages: 94
+      order: 15
+      base_file: FF64.txt
+    FE94:
+      image_group_id: I1PD36088
+      title: ''
+      total_pages: 84
+      order: 16
+      base_file: FE94.txt
+    F8F8:
+      image_group_id: I1PD36089
+      title: ''
+      total_pages: 94
+      order: 17
+      base_file: F8F8.txt
+    141E:
+      image_group_id: I1PD36090
+      title: ''
+      total_pages: 92
+      order: 18
+      base_file: 141E.txt
+    83FD:
+      image_group_id: I1PD36091
+      title: ''
+      total_pages: 84
+      order: 19
+      base_file: 83FD.txt
+    19A5:
+      image_group_id: I1PD36092
+      title: ''
+      total_pages: 96
+      order: 20
+      base_file: 19A5.txt
+    AAA0:
+      image_group_id: I1PD36093
+      title: ''
+      total_pages: 96
+      order: 21
+      base_file: AAA0.txt
+    A8DA:
+      image_group_id: I1PD36094
+      title: ''
+      total_pages: 100
+      order: 22
+      base_file: A8DA.txt
+    62F3:
+      image_group_id: I1PD36095
+      title: ''
+      total_pages: 126
+      order: 23
+      base_file: 62F3.txt
+    AAE8:
+      image_group_id: I1PD36096
+      title: ''
+      total_pages: 122
+      order: 24
+      base_file: AAE8.txt
+    '7794':
+      image_group_id: I1PD36097
+      title: ''
+      total_pages: 94
+      order: 25
+      base_file: 7794.txt
+    '0174':
+      image_group_id: I1PD36098
+      title: ''
+      total_pages: 134
+      order: 26
+      base_file: 0174.txt
+    869B:
+      image_group_id: I1PD36099
+      title: ''
+      total_pages: 118
+      order: 27
+      base_file: 869B.txt
+    6BBB:
+      image_group_id: I1PD36100
+      title: ''
+      total_pages: 118
+      order: 28
+      base_file: 6BBB.txt
+    '8258':
+      image_group_id: I1PD36101
+      title: ''
+      total_pages: 86
+      order: 29
+      base_file: 8258.txt
+    0914:
+      image_group_id: I1PD36102
+      title: ''
+      total_pages: 94
+      order: 30
+      base_file: 0914.txt
+    5B6F:
+      image_group_id: I1PD36103
+      title: ''
+      total_pages: 88
+      order: 31
+      base_file: 5B6F.txt
+    A7DD:
+      image_group_id: I1PD36104
+      title: ''
+      total_pages: 86
+      order: 32
+      base_file: A7DD.txt
+    6D47:
+      image_group_id: I1PD36105
+      title: ''
+      total_pages: 82
+      order: 33
+      base_file: 6D47.txt
+    F06A:
+      image_group_id: I1PD36106
+      title: ''
+      total_pages: 86
+      order: 34
+      base_file: F06A.txt
+    1F12:
+      image_group_id: I1PD36107
+      title: ''
+      total_pages: 92
+      order: 35
+      base_file: 1F12.txt
+    F4CB:
+      image_group_id: I1PD36108
+      title: ''
+      total_pages: 88
+      order: 36
+      base_file: F4CB.txt
+    77B0:
+      image_group_id: I1PD36109
+      title: ''
+      total_pages: 98
+      order: 37
+      base_file: 77B0.txt
+    FF5E:
+      image_group_id: I1PD36110
+      title: ''
+      total_pages: 92
+      order: 38
+      base_file: FF5E.txt
+    72C5:
+      image_group_id: I1PD36111
+      title: ''
+      total_pages: 88
+      order: 39
+      base_file: 72C5.txt
+    5EE3:
+      image_group_id: I1PD36112
+      title: ''
+      total_pages: 88
+      order: 40
+      base_file: 5EE3.txt
+    35C8:
+      image_group_id: I1PD36113
+      title: ''
+      total_pages: 94
+      order: 41
+      base_file: 35C8.txt
+    A3AD:
+      image_group_id: I1PD36114
+      title: ''
+      total_pages: 100
+      order: 42
+      base_file: A3AD.txt
+    '4989':
+      image_group_id: I1PD36115
+      title: ''
+      total_pages: 92
+      order: 43
+      base_file: 4989.txt
+    D1E7:
+      image_group_id: I1PD36116
+      title: ''
+      total_pages: 88
+      order: 44
+      base_file: D1E7.txt
+    '1844':
+      image_group_id: I1PD36117
+      title: ''
+      total_pages: 94
+      order: 45
+      base_file: 1844.txt
+    897D:
+      image_group_id: I1PD36118
+      title: ''
+      total_pages: 92
+      order: 46
+      base_file: 897D.txt
+    D5D9:
+      image_group_id: I1PD36119
+      title: ''
+      total_pages: 94
+      order: 47
+      base_file: D5D9.txt
+    D10F:
+      image_group_id: I1PD36120
+      title: ''
+      total_pages: 94
+      order: 48
+      base_file: D10F.txt
+    550B:
+      image_group_id: I1PD36121
+      title: ''
+      total_pages: 94
+      order: 49
+      base_file: 550B.txt
+    7A22:
+      image_group_id: I1PD36122
+      title: ''
+      total_pages: 94
+      order: 50
+      base_file: 7A22.txt
+    5DC3:
+      image_group_id: I1KG14479
+      title: ''
+      total_pages: 94
+      order: 51
+      base_file: 5DC3.txt
+statistics: {}
+quality: {}
+copyright:
+  status: Unknown
+  notice: ''
+  info_url: null
+license: null
